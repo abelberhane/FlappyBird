@@ -24,7 +24,7 @@ namespace FlappyBird
             InitializeComponent();
             //Text displayed at the end of the game. AKA when you die.
             endText1.Text = "Game Over!";
-            endText2.Text = "Your final score is: " + Inscore;
+            endText2.Text = "Your final score is : " ;
             gameDesigner.Text = "Game Designed By Abel Berhane :)";
 
             //End text is disabled traditionally. 

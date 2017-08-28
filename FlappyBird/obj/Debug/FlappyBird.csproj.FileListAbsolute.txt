@@ -7,3 +7,12 @@ c:\users\abel\documents\visual studio 2017\Projects\FlappyBird\FlappyBird\bin\De
 c:\users\abel\documents\visual studio 2017\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
 c:\users\abel\documents\visual studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
 c:\users\abel\documents\visual studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\Abel\Desktop\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb

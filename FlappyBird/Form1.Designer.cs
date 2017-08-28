@@ -94,38 +94,50 @@
             // scoreText
             // 
             this.scoreText.AutoSize = true;
-            this.scoreText.Location = new System.Drawing.Point(100, 292);
+            this.scoreText.BackColor = System.Drawing.Color.Transparent;
+            this.scoreText.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.scoreText.ForeColor = System.Drawing.Color.Black;
+            this.scoreText.Location = new System.Drawing.Point(252, 378);
             this.scoreText.Name = "scoreText";
-            this.scoreText.Size = new System.Drawing.Size(35, 13);
+            this.scoreText.Size = new System.Drawing.Size(46, 20);
             this.scoreText.TabIndex = 4;
-            this.scoreText.Text = "label1";
+            this.scoreText.Text = "Score";
             // 
             // endText1
             // 
             this.endText1.AutoSize = true;
-            this.endText1.Location = new System.Drawing.Point(100, 334);
+            this.endText1.BackColor = System.Drawing.Color.Transparent;
+            this.endText1.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.endText1.ForeColor = System.Drawing.Color.Black;
+            this.endText1.Location = new System.Drawing.Point(165, 230);
             this.endText1.Name = "endText1";
-            this.endText1.Size = new System.Drawing.Size(35, 13);
+            this.endText1.Size = new System.Drawing.Size(150, 37);
             this.endText1.TabIndex = 5;
-            this.endText1.Text = "label2";
+            this.endText1.Text = "Game Over";
             // 
             // endText2
             // 
             this.endText2.AutoSize = true;
-            this.endText2.Location = new System.Drawing.Point(100, 376);
+            this.endText2.BackColor = System.Drawing.Color.Transparent;
+            this.endText2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.endText2.ForeColor = System.Drawing.Color.Black;
+            this.endText2.Location = new System.Drawing.Point(120, 378);
             this.endText2.Name = "endText2";
-            this.endText2.Size = new System.Drawing.Size(35, 13);
+            this.endText2.Size = new System.Drawing.Size(81, 20);
             this.endText2.TabIndex = 6;
-            this.endText2.Text = "label3";
+            this.endText2.Text = "Final Score";
             // 
             // gameDesigner
             // 
             this.gameDesigner.AutoSize = true;
-            this.gameDesigner.Location = new System.Drawing.Point(100, 412);
+            this.gameDesigner.BackColor = System.Drawing.Color.Transparent;
+            this.gameDesigner.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gameDesigner.ForeColor = System.Drawing.Color.Black;
+            this.gameDesigner.Location = new System.Drawing.Point(120, 409);
             this.gameDesigner.Name = "gameDesigner";
-            this.gameDesigner.Size = new System.Drawing.Size(35, 13);
+            this.gameDesigner.Size = new System.Drawing.Size(50, 20);
             this.gameDesigner.TabIndex = 7;
-            this.gameDesigner.Text = "label4";
+            this.gameDesigner.Text = "By Me";
             // 
             // Form1
             // 
@@ -143,7 +155,7 @@
             this.Controls.Add(this.flappyBird);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Flappy Bird  V.1";
+            this.Text = "Flappy Bird  V 1.1";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.inGameKeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.GameKeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.flappyBird)).EndInit();
