@@ -22,6 +22,7 @@ happier. While testing it I did find a bug that allowed my character to float ab
   - [Knowledge Base](#knowledge-base)
     - [Youtube Resources](#youtube-resources)
     - [Documentation](#official-documentation)
+  - [How to Run](#how-to-run)
   - [To Do List](#to-do-list)
   - [Suggestions](#suggestions)
   - [How to Contribute](#how-to-contribute)
@@ -38,6 +39,12 @@ happier. While testing it I did find a bug that allowed my character to float ab
 - [5 Game Course - Python](https://www.youtube.com/watch?v=XGf2GcyHPhc&ab_channel=freeCodeCamp.org)
 ### Official Documentation
 - [Official Ruby Docs](https://www.ruby-lang.org/en/documentation/)
+
+# How to Run
+1) To run this game, download the repo using the following command
+`example command`
+2) cd into the source code directory
+3) Next step
 
 # To Do List
 1) Block character from floating above the screen borders
@@ -63,4 +70,3 @@ If you would like to help contribute to this repository or see a fix that you wo
 ### Lessons Learned
 - [ ] - Calculating and Keeping Score
 - [ ] - Start Menu
-- [ ] - 
